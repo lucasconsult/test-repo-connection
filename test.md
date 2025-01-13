@@ -1,1 +1,3 @@
-IyBUZXN0IEZpbGUKClRoaXMgaXMgYSB0ZXN0IGZpbGUgdG8gdmVyaWZ5IEdpdEh1YiBBUEkgY29ubmVjdGl2aXR5Lg==
+# Test File
+
+This is a test file to verify GitHub API connectivity.
